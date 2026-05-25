@@ -1,0 +1,8 @@
+{
+    "name": "apiconfig-service",
+    "version": "1.0.501",
+    "private": false,
+    "environment": "production",
+    "build_id": 756,
+    "allow_public_access": true
+}
